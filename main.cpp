@@ -1,5 +1,5 @@
 #include "principal.h"
-
+#include <QMessageBox>
 #include <QApplication>
 #include <QLocale>
 #include <QTranslator>
