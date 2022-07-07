@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Recursos/Img/calcular.png</file>
+    </qresource>
+</RCC>

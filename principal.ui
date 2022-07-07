@@ -13,6 +13,10 @@
   <property name="windowTitle">
    <string>Principal</string>
   </property>
+  <property name="windowIcon">
+   <iconset resource="Recursos.qrc">
+    <normaloff>:/Recursos/Img/calcular.png</normaloff>:/Recursos/Img/calcular.png</iconset>
+  </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QFormLayout" name="formLayout">
     <item row="0" column="0">
@@ -125,7 +129,9 @@
    </property>
   </action>
  </widget>
- <resources/>
+ <resources>
+  <include location="Recursos.qrc"/>
+ </resources>
  <connections>
   <connection>
    <sender>actionSalir</sender>
