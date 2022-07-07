@@ -19,7 +19,10 @@ FORMS += \
     principal.ui
 
 TRANSLATIONS += \
-    Calculadora-POO_es_EC.ts
+    Calculadora-POO_es_EC.ts \
+    Calculadora-POO_fr.ts  \
+    Calculadora-POO_en_US.ts  \
+    Calculadora-POO_ru.ts
 CONFIG += lrelease
 CONFIG += embed_translations
 
